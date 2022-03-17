@@ -1,4 +1,4 @@
-package io.github.aigolee168.plugin;
+package plugin;
 
 import org.gradle.api.Plugin;
 import org.gradle.api.Project;

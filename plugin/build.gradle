@@ -19,7 +19,7 @@ gradlePlugin {
             id = 'io.github.aigolee168.greetings'
             displayName = 'Greeting plugin'
             description = 'My greeting plugin for test purpose.'
-            implementationClass = 'io.github.aigolee168.plugin.GreetingPlugin'
+            implementationClass = 'plugin.GreetingPlugin'
         }
     }
 }
